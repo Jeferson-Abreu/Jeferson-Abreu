@@ -16,6 +16,5 @@
 
 </div><br/>
 
-### Focado em me tornar um Desenvolvedor Web .
 
-### Sou estudante de ADS semestre "3️⃣/4️⃣"!
+
